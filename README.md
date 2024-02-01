@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Devops**
 
-- 🌱 I’m currently learning **Devops**
-
 - 👯 I’m looking to collaborate on **ML, DL**
 
 - 🤝 I’m looking for help with **Full Stack Developement**
