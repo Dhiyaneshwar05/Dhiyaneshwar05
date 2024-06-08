@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhiyaneshwar</h1>
 <h3 align="center">A passionate CS post-grad student from India :)</h3>
 
-- 🔭 I’m currently working on **Devops**
+- 🔭 I’m currently working on **Data Science**
 
-- 👯 I’m looking to collaborate on **ML, DL**
+- 👯 I’m currently learning **Gen-AI,AGI**
 
-- 🤝 I’m looking for help with **Full Stack Developement**
+- 🤝 I’m looking for help with **Software Dev**
 
 - 📫 How to reach me **dhiyanu522@gmail.com**
 
