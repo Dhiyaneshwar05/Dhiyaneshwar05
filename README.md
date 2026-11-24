@@ -1,27 +1,22 @@
-<h1 align="center">Hi 👋, I'm Dhiyaneshwar</h1>
-<h3 align="center">A passionate CS post-grad student from India :)</h3>
+# Hi, I’m Dhiyaneshwar G
 
-- 🔭 I’m currently working on **Data Science**
+**Forward Deployed Engineer at DevRev · Applied AI**
 
-- 👯 I’m currently learning **Gen-AI,AGI**
+I’ve spent the past two years working with enterprise teams to ship AI agents that fit into their existing workflows. I build tool integrations, orchestrate multi-step workflows, and design evals to catch regressions before rollout.
 
-- 🤝 I’m looking for help with **Software Dev**
+[LinkedIn](https://www.linkedin.com/in/dhiyanesh-g/)
 
-- 📫 How to reach me **dhiyanu522@gmail.com**
+## Selected projects
 
-- ⚡ Fun fact **Fluent in Sarcasm**
+- [**claude-deck**](https://github.com/Dhiyaneshwar05/claude-deck) — A desktop dashboard for discovering and monitoring Claude Code sessions across editors and terminals. Built with Tauri, React, and Rust.
+- [**Ritual**](https://github.com/Dhiyaneshwar05/ritual) — A Mac app for habits and tasks. Each habit check-in adds a piece to a monument you build over time.
+- [**jobclip**](https://github.com/Dhiyaneshwar05/jobclip) — A browser extension that saves job posts to Google Sheets in one click, with a local dashboard for reviewing them.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dhiyanesh-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhiyanesh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhiyanu522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhiyanu522" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhiyanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhiyanu" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/dhiyanesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="dhiyanesh" height="30" width="40" /></a>
-</p>
+## What I’m exploring
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I’m interested in the engineering around the model. How do agents get the right tools, how do skills carry across coding environments, and how do you trace a workflow when it fails?
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiyaneshwar05&show_icons=true&locale=en&layout=compact" alt="dhiyaneshwar05" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhiyaneshwar05&show_icons=true&locale=en" alt="dhiyaneshwar05" /></p>
+- [Claude Code plugins](https://github.com/anthropics/claude-plugins-official) — Packaging skills, hooks, and integrations for reuse.
+- [Agent Skills](https://github.com/agentskills/agentskills) — A portable format for giving agents reusable instructions and resources.
+- [Model Context Protocol](https://github.com/modelcontextprotocol/modelcontextprotocol) — Connecting AI applications to tools and data.
+- [Arize Phoenix](https://github.com/Arize-ai/phoenix) — Open-source tracing and evals for debugging agent workflows.
