@@ -1,22 +1,23 @@
-# Hi, I’m Dhiyaneshwar G
+# Hey, I’m Dhiyaneshwar G.
 
-**Forward Deployed Engineer at DevRev · Applied AI**
+I’m a **Forward Deployed Engineer at DevRev**. For the past two years, I’ve been shipping AI agents that fit into the way teams already work. I build the harnesses that connect agents to tools and help them recover when a step fails, and I use evals to catch regressions before rollout.
 
-I’ve spent the past two years working with enterprise teams to ship AI agents that fit into their existing workflows. I build tool integrations, orchestrate multi-step workflows, and design evals to catch regressions before rollout.
+### Outside work
 
-[LinkedIn](https://www.linkedin.com/in/dhiyanesh-g/)
+- [**claude-deck**](https://github.com/Dhiyaneshwar05/claude-deck) brings my Claude Code sessions from different editors and terminals into one window.
+- [**Ritual**](https://github.com/Dhiyaneshwar05/ritual) is my Mac app for habits and tasks. Every habit check-in adds a piece to a monument.
+- [**jobclip**](https://github.com/Dhiyaneshwar05/jobclip) saves job posts to Google Sheets in one click.
 
-## Selected projects
+### Good reads
 
-- [**claude-deck**](https://github.com/Dhiyaneshwar05/claude-deck) — A desktop dashboard for discovering and monitoring Claude Code sessions across editors and terminals. Built with Tauri, React, and Rust.
-- [**Ritual**](https://github.com/Dhiyaneshwar05/ritual) — A Mac app for habits and tasks. Each habit check-in adds a piece to a monument you build over time.
-- [**jobclip**](https://github.com/Dhiyaneshwar05/jobclip) — A browser extension that saves job posts to Google Sheets in one click, with a local dashboard for reviewing them.
+- [**What Pi keeps when a coding session gets long**](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/docs/compaction.md) — Why a tool call and its result stay together when older context gets compressed.
+- [**Testing when a Claude Code skill kicks in**](https://github.com/anthropics/skills/blob/main/skills/skill-creator/scripts/run_eval.py) — A way to test both requests that should activate a skill and near misses that should leave it alone.
+- [**Inspect AI’s run transcripts**](https://inspect.aisi.org.uk/agent-custom.html) — How to see what the model called, what came back, and where the run went off track.
 
-## What I’m exploring
+<details>
+<summary>More from my reading list</summary>
 
-I’m interested in the engineering around the model. How do agents get the right tools, how do skills carry across coding environments, and how do you trace a workflow when it fails?
+- [Making retries safe with idempotent APIs](https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/) — How to retry a request safely when the first attempt may already have done the work.
+- [BAMA](https://github.com/daveebbelaar/bama) — Agent skills for building and testing native SwiftUI apps.
 
-- [Claude Code plugins](https://github.com/anthropics/claude-plugins-official) — Packaging skills, hooks, and integrations for reuse.
-- [Agent Skills](https://github.com/agentskills/agentskills) — A portable format for giving agents reusable instructions and resources.
-- [Model Context Protocol](https://github.com/modelcontextprotocol/modelcontextprotocol) — Connecting AI applications to tools and data.
-- [Arize Phoenix](https://github.com/Arize-ai/phoenix) — Open-source tracing and evals for debugging agent workflows.
+</details>
